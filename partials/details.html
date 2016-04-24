@@ -1,0 +1,16 @@
+<section class="characterinfo">
+	<div class="character cf" ng-model="character">
+		<a href="#/details/{{prevItem}}" class="btn btn-left">&lt;</a>
+		<a href="#/details/{{nextItem}}" class="btn btn-left">&gt;</a>
+
+		<h1>{{character[whichItem].name}}</h1>
+		<div class="info">
+			<h3>{{character[whichItem].actor}}</h3>
+			<img ng-src="images/{{character[whichItem].shortname}}_tn.jpg" alt="Photo of {{character[whichItem].name}}">
+			<div class="bio">
+				{{character[whichItem].bio}}
+			</div>
+		</div>
+	</div>
+	<a href="/#list">&laquo; Back to search</a>
+</section>
