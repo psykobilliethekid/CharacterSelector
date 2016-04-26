@@ -71,6 +71,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
     clear: both;
 }
 
+/*
 html {
   background-color: #023E54; 
   background-image: url(images/fallback-gradient.png); 
@@ -87,8 +88,16 @@ body  {
   font-size: 1rem;
   line-height: 160%;
   *zoom: 1;
+  
 }
+*/
 
+body{
+  background: url(../images/BCS_background02.jpg) no-repeat center center fixed;
+  background-size: auto;
+  margin-top: 70px;
+  background-color: #222;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Bree Serif', serif;
@@ -167,7 +176,7 @@ a.small {
     cursor: pointer;
     border: 1px solid transparent;
     border-radius: 4px;
-    background: #C61C6F;
+    background: #1C7EC6;
     color: #FCF4DC;
     -webkit-user-select: none;
        -moz-user-select: none;
@@ -185,7 +194,8 @@ a.small {
 }
 
 .btn:hover {
-    background: #09576D;
+    background: #096D0D;
+     color: #ffffff;
 }
 
 .search label {
@@ -197,7 +207,7 @@ a.small {
   width: 100%;
   padding: 10px 0 10px 15px;
   font-size: 1rem;
-  color: #475B62;
+  color: #ffffff;
   background: rgba(255,255,255,0.4);
   border: 1px solid rgba(255,255,255,0.2);
   border-radius: 10px;
@@ -219,8 +229,8 @@ a.small {
   display: inline;
   padding: 10px 0 10px 15px;
   font-size: 1rem;
-  color: #475B62;
-  background: rgba(255,255,255,0.4);
+  color: #eee;
+  background: rgba(0,0,0,0.4);
   border: 1px solid rgba(0,0,0,0.3);
   border-radius: 10px;
   outline: 0;
@@ -331,4 +341,10 @@ a.small {
   opacity:  0;
   height: 0;
   overflow: hidden;
+}
+
+/* Bootstrap Styles */
+
+.navbar-fixed-bottom{
+     padding-top: 20px;
 }

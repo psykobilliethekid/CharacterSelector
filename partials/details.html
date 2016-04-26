@@ -1,16 +1,22 @@
+<nav class="navbar navbar-inverse navbar-fixed-top">
+     <a class="navbar-brand" href="#">Better Call Saul Character Selector</a>
+</nav>
 <section class="characterinfo">
-	<div class="character cf" ng-model="character">
+	<div class="character cf" ng-model="characters">
 		<a href="#/details/{{prevItem}}" class="btn btn-left">&lt;</a>
 		<a href="#/details/{{nextItem}}" class="btn btn-left">&gt;</a>
 
-		<h1>{{character[whichItem].name}}</h1>
+		<h1>{{characters[whichItem].name}}</h1>
 		<div class="info">
-			<h3>{{character[whichItem].actor}}</h3>
-			<img ng-src="images/{{character[whichItem].shortname}}_tn.jpg" alt="Photo of {{character[whichItem].name}}">
+			<h3>{{characters[whichItem].reknown}}</h3>
+			<img ng-src="images/{{characters[whichItem].shortname}}_tn.jpg" alt="Photo of {{characters[whichItem].name}}">
 			<div class="bio">
-				{{character[whichItem].bio}}
+				{{characters[whichItem].bio}}
 			</div>
 		</div>
 	</div>
 	<a href="/#list">&laquo; Back to search</a>
 </section>
+<nav class="navbar navbar-inverse navbar-fixed-bottom">
+     <a id="footerBrand" class="navbar-brand" href="#">Created by Danielle Moss  &copy; 2016</a>
+</nav>
