@@ -1,38 +1,50 @@
 [
   {
-    "name":"James McGill aka Saul Goodman",
+    "name":"James McGill",
     "shortname":"James_McGill",
-    "actor":"Bob Odenkirk",
-    "bio":"James 'Jimmy' McGill is a small-time lawyer who is constantly looking to make a quick buck. Taking on difficult court cases and accepting clearly guilty clients, Jimmy finds himself at a loss in the law business. His mentally unstable brother Chuck puts a bigger burden on him by being a part of Hamlin, Hamlin & McGill, a highly successful law company of which Chuck no longer has a working position at due to his condition, which is now run by Howard Hamlin, a clear rival to James. James is trying to coerce Chuck to 'Cash-out' of the company at an estimated $17 Million Dollar investment, of which Chuck has no interest. Strapped for cash and desperate to find a way out, James turns to a life of shady clients and illicit contacts that would eventually turn him into the Saul Goodman he is known for during the events of Breaking Bad."
-  },
-  {
-    "name":"Chuck McGill Jr.",
-    "shortname":"Chuck_McGill",
-    "actor":"Michael McKean",
-    "bio":"Charles 'Chuck' McGill, Jr. is Jimmy McGill's older brother. He is a named partner at one of Albuquerque's most prestigious law firms, Hamlin, Hamlin & McGill, which he co-founded along with his business partner, Howard Hamlin. A brilliant man who holds himself and others to high ideals, Chuck firmly believes that doing the right thing is the only true path to success. Chuck suffers from electromagnetic hypersensitivity, an unusual affliction garnered under mysterious circumstances, which makes it challenging for him to lead a normal life."
-  },
-  {
-    "name":"Howard Hamlin",
-    "shortname":"Howard_Hamlin",
-    "actor":"Patrick Fabian",
-    "bio":"Howard Hamlin is the name partner and general go-to guy toeing the company line for hugely successful Albuquerque law firm Hamlin, Hamlin & McGill. Hamlin is one of life’s winners. His good fortune, sun-kissed looks, and more than ample charm prove to be a constant source of frustration for Jimmy as is his relationship with Chuck McGill."
+    "reknown":"Bob Odenkirk",
+    "bio":"James 'Jimmy' Morgan McGill, known by his professional alias Saul Goodman, is a former criminal lawyer and the former principal attorney of Saul Goodman & Associates. He operated out of a cheap strip mall office and ran over-the-top late night TV ads advising potential clients they'd 'Better Call Saul!' when in trouble with the law, promising 'I fight for YOU, Albuquerque!' While his late-night commercial ads seemed tacky and cheap, Saul was an incredibly effective lawyer, using illegal tactics and dirty schemes to make sure his clients came out on top."
   },
   {
     "name":"Mike Ehrmantraut",
     "shortname":"Mike_Ehrmantraut",
-    "actor":"Jonathan Banks",
+    "reknown":"Jonathan Banks",
     "bio":"Michael 'Mike' Ehrmantraut was a former crooked Philadelphia police officer who worked as head of corporate security at Los Pollos Hermanos, hit man, consigliere, enforcer and second-in-command in Gustavo Fring's crystal meth operation. On occasion, he worked for Saul Goodman as a private investigator, cleaner, and fixer. Prior to his involvement in Gus's operation, Mike worked as parking ticket booth operator at a local courthouse, where he met Saul, then known as Jimmy McGill."
+  },
+  {
+    "name":"Chuck McGill, Jr.",
+    "shortname":"Chuck_McGill",
+    "reknown":"Michael McKean",
+    "bio":"Charles 'Chuck' McGill, Jr. is Jimmy McGill's older brother. He is a named partner at one of Albuquerque's most prestigious law firms, Hamlin, Hamlin & McGill, which he co-founded along with his business partner, Howard Hamlin. A brilliant man who holds himself and others to high ideals, Chuck firmly believes that doing the right thing is the only true path to success. Chuck suffers from electromagnetic hypersensitivity, an unusual affliction garnered under mysterious circumstances, which makes it challenging for him to lead a normal life."
   },
   {
     "name":"Kim Wexler",
     "shortname":"Kim_Wexler",
-    "actor":"Rhea Seehorn",
+    "reknown":"Rhea Seehorn",
     "bio":"Kimberly 'Kim' Wexler was one of the key litigators at Hamlin, Hamlin & McGill. However, Kim’s personal history with Jimmy complicated their working relationship, often putting her at odds with Howard Hamlin and Chuck McGill, threatening her promising career and eventually putting her in Hamlin's doghouse. This forced her to reevaluate her place in HHM and leave, settling up a practice of her own, in conjunction with Jimmy, separate apart from expenses such as rent and resources. Despite this, because of Jimmy's and Chuck's feud, she finds herself still in the middle of her former boss and Jimmy."
+  },
+  {
+    "name":"Howard Hamlin",
+    "shortname":"Howard_Hamlin",
+    "reknown":"Patrick Fabian",
+    "bio":"Howard Hamlin is the name partner and general go-to guy toeing the company line for hugely successful Albuquerque law firm Hamlin, Hamlin & McGill. Hamlin is one of life’s winners. His good fortune, sun-kissed looks, and more than ample charm prove to be a constant source of frustration for Jimmy as is his relationship with Chuck McGill."
   },
   {
     "name":"Ignacio Varga",
     "shortname":"Ignacio_Varga",
-    "actor":"Michael Mando",
+    "reknown":"Michael Mando",
     "bio":"Ignacio Varga, better known as Nacho, is a calculating, intelligent career criminal. While not yet a kingpin himself, Nacho is bright and has the ear of his terrifying boss. Nacho’s ambitions will put him on a collision course with Jimmy that might just take them both down."
+  },
+  {
+    "name":"Tuco Salamanca",
+    "shortname":"Tuco_Salamanca",
+    "reknown":"Raymond Cruz",
+    "bio":"Tuco Salamanca was a psychopathic Mexican drug kingpin, local in the Albuquerque area, who briefly became Walter White and Jesse Pinkman's meth distributor. He was the grandson of Abuelita and nephew of Don Hector Salamanca, one of the most powerful members of the Juárez Cartel. Tuco also had three cousins involved in criminal activities: Marco, Leonel and Joaquin Salamanca. Ruthless, unpredictable, and prone to violent outbursts, Tuco nevertheless respected Walter because of his superior product, intelligence, business style, and guts. He was the main antagonist for the second half of the first season and the beginning of the second season of Breaking Bad. He also appears as a minor antagonist during the first season of Better Call Saul."
+  },
+  {
+    "name":"Hector Salamanca",
+    "shortname":"Hector_Salamanca",
+    "reknown":"Mark Margolis",
+    "bio":"Don Hector 'Tio' Salamanca was a drug runner and the former right hand man and enforcer of Don Eladio Vuente. Hector was a high-ranking member of the Juárez Cartel, the patriach of the Salamanca family, and was feared among most in the South. He was the son of Abuelita, the uncle of Tuco, Marco and Leonel Salamanca, as well as the grandfather of Joaquin Salamanca."
   }
 ]
